@@ -1,4 +1,3 @@
-# CS1004-project
-FAST NUCES || CS1004 Object Oriented Programming || Semester 2 Project
+CS1004 Object Oriented Programming Project in C++
 
 Restaurant Management System
